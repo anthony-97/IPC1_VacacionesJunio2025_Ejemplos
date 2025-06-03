@@ -1,0 +1,9 @@
+#Se ignoran archivos y carpetas comunes de un proyecto Java con NetBeans
+**/build/
+**/dist/
+
+#Se ignoran archivos de configuración específicos de NetBeans
+**/nbproject/private/
+
+#Se ignoran archivos compilados de Java
+**/*.class
