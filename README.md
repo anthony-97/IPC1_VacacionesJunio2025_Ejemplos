@@ -32,4 +32,4 @@ No olvides hacer pull al ver que se publicó un nuevo ejemplo (aplica si usaste 
 ## 🏆 Autor  
 
 👨‍💻 Desarrollado por **Anthony Aquino**  
-📆 Última actualización: `03 de junio del 2025`  
+📆 Última actualización: `12 de junio del 2025`  
