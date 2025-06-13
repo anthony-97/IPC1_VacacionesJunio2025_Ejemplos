@@ -1,0 +1,73 @@
+[
+  {
+    "codigo": 1,
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "correo": "juan.perez@gmail.com",
+    "genero": "m"
+  },
+  {
+    "codigo": 2,
+    "nombre": "Andrea",
+    "apellido": "Gonzalez",
+    "correo": "andrea.gonzalez@gmail.com",
+    "genero": "f"
+  },
+  {
+    "codigo": 3,
+    "nombre": "Luis",
+    "apellido": "Martínez",
+    "correo": "luis.martinez@gmail.com",
+    "genero": "m"
+  },
+  {
+    "codigo": 4,
+    "nombre": "María",
+    "apellido": "López",
+    "correo": "maria.lopez@gmail.com",
+    "genero": "f"
+  },
+  {
+    "codigo": 5,
+    "nombre": "Carlos",
+    "apellido": "Ramírez",
+    "correo": "carlos.ramirez@gmail.com",
+    "genero": "m"
+  },
+  {
+    "codigo": 6,
+    "nombre": "Sofía",
+    "apellido": "Torres",
+    "correo": "sofia.torres@gmail.com",
+    "genero": "f"
+  },
+  {
+    "codigo": 7,
+    "nombre": "José",
+    "apellido": "Morales",
+    "correo": "jose.morales@gmail.com",
+    "genero": "m"
+  },
+  {
+    "codigo": 8,
+    "nombre": "Lucía",
+    "apellido": "Hernández",
+    "correo": "lucia.hernandez@gmail.com",
+    "genero": "f"
+  },
+  {
+    "codigo": 9,
+    "nombre": "Miguel",
+    "apellido": "Castro",
+    "correo": "miguel.castro@gmail.com",
+    "genero": "m"
+  },
+  {
+    "codigo": 10,
+    "nombre": "Elena",
+    "apellido": "Mendoza",
+    "correo": "elena.mendoza@gmail.com",
+    "genero": "f"
+  }
+]
+
